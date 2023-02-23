@@ -1,0 +1,9 @@
+.block {
+  border: 2px solid green;
+  border-radius: 15px;
+  padding: 20px;
+  display: flex;
+  gap: 100px;
+  justify-content: center;
+  width: min-content;
+}

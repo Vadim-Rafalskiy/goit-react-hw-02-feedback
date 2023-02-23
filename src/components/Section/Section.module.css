@@ -1,0 +1,14 @@
+.title {
+  font-size: 30px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.Section {
+  padding: 20px;
+  border-radius: 15px;
+  border-left: 2px solid green;
+  border-right: 2px solid green;
+  height: 250px;
+  width: 400px;
+}

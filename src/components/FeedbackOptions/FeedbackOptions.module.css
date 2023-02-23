@@ -1,0 +1,23 @@
+.btnWrapper {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+
+.btn {
+  font-size: inherit;
+  flex-basis: 100px;
+  padding: 5px;
+  color: white;
+  border-radius: 10px;
+}
+.good {
+  background-color: green;
+}
+.neutral {
+  background-color: rgb(111, 25, 164);
+}
+
+.bad {
+  background-color: red;
+}

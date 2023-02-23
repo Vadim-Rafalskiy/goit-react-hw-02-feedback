@@ -1,0 +1,7 @@
+.statWrapper {
+  min-width: 400px;
+}
+
+.statItem:not(:last-child) {
+  margin-bottom: 15px;
+}
