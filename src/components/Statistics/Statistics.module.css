@@ -1,5 +1,5 @@
 .statWrapper {
-  min-width: 400px;
+  width: 400px;
 }
 
 .statItem:not(:last-child) {
